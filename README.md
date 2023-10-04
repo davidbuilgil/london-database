@@ -1,5 +1,5 @@
 # london-database
-Database of Census variables and police recorded crime data for Greater London
+Database of Census 2011 variables and police recorded crime data for Greater London
 
 This database was created following the instructions below:
 1.	Download crime aggregates at LSOA level in London: https://data.london.gov.uk/dataset/recorded_crime_summary [data.london.gov.uk] (download the ‘MPS LSOA Level Crime (historic)’ file)
